@@ -1,0 +1,12 @@
+*.pyc
+*.exe
+*.o
+*.so
+*.a
+*.dyn_o
+*.hi
+*.bc
+*.save0
+*.out
+*.cache
+setup-config
